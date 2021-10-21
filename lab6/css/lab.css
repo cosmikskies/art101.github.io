@@ -1,0 +1,21 @@
+h1 {
+  font-family: fantasy;
+  font-size: 300%;
+}
+
+h2{
+  font-family: inherit;
+  font-size: 150%;
+}
+
+
+
+.groove {
+  border-style: groove;
+  width: 600px;
+  height: 100px;
+}
+
+p {
+  font-family:inherit;
+}
