@@ -16,7 +16,7 @@ $("#buttons").click(function(){
   })
   // Put the output of the AJAX call in the output div
   .done(function(data) {
-      $("#output").html("<h1 id = stuff>" + comicObj.title + "<h2>");
+      $("#Output").html("<h1 id = stuff>" + comicObj.title + "<h2>");
       $("Output").append("<img src =''" +  comicObj.img + "'width = '350'>");
   })
   console.log("hi");
